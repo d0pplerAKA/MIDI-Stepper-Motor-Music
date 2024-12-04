@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "timer.h": "c",
+        "stm32f4xx.h": "c",
+        "tone.h": "c",
+        "midi.h": "c"
+    }
+}

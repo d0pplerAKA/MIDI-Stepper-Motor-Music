@@ -1,0 +1,1 @@
+python "D:/Espressif/esp-idf/components/partition_table/parttool.py" --port COM8 erase_partition --partition-name=storage
